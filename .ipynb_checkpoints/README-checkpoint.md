@@ -26,4 +26,4 @@ Hello there! I'm a budding data scientist with a passion for using data to uncov
 
 ![Alwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwiAlHadad&show_icons=true&theme=swift)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwiAlHadad&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwiAlHadad&hide_progress=true)

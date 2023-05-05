@@ -1,6 +1,6 @@
 # 🔍 Alwi Al Hadad 🔍
 
-** 🧪 The Data Alchemist - Transforming Raw Data into Gold 🧈 **
+**🧪 The Data Alchemist - Transforming Raw Data into Gold 🧈**
 
 Hello there! I'm a budding data scientist with a passion for using data to uncover insights and solve real-world problems. While I may be new to the field, I am eager to learn and grow as much as possible. I am proficient in Python and have experience working with popular libraries such as pandas, NumPy, and scikit-learn. I am also skilled in SQL and data visualization tools like Tableau. I may not have years of experience yet, but I'm excited to dive in headfirst and explore all that data science has to offer. Let's connect and work on some awesome projects together!
 

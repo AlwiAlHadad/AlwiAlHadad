@@ -7,6 +7,7 @@ Hello there! I'm a budding data scientist with a passion for using data to uncov
 ---
 
 ### 🧰 Languanges and Tools
+
 <img align="left" alt="Anaconda" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jupyter Lab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="padding-right:10px;" />

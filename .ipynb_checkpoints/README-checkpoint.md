@@ -17,8 +17,9 @@ Hello there! I'm a budding data scientist with a passion for using data to uncov
 <img align="left" alt="MySql" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Tableau" width="60px" src="tableau-svgrepo-com.svg" style="padding-right:10px;" />
-<img align="left" alt="Github" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" /> <br/>
-#
+<img align="left" alt="Github" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
+
+***
 
 ### 📊 Stats
 

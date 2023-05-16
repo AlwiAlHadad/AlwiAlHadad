@@ -2,7 +2,7 @@
 
 **🧪 The Data Alchemist - Transforming Raw Data into Gold 🧈**
 
-Hello there! I'm a budding data scientist with a passion for using data to uncover insights and solve real-world problems. While I may be new to the field, I am eager to learn and grow as much as possible. I am proficient in Python and have experience working with popular libraries such as pandas, NumPy, and scikit-learn. I am also skilled in SQL and data visualization tools like Tableau. I may not have years of experience yet, but I'm excited to dive in headfirst and explore all that data science has to offer. Let's connect and work on some awesome projects together!
+Hi, I'm a data scientist with a passion for using data to solve problems. I'm proficient in Python, SQL, and data visualization tools. I'm eager to learn and grow, and I'm looking for opportunities to work on awesome projects. Let's connect!
 
 ---
 
@@ -22,6 +22,23 @@ Hello there! I'm a budding data scientist with a passion for using data to uncov
 
 #
 
-### 📊 Stats
+<h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![Alwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlwiAlHadad&show_icons=true&theme=swift) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwiAlHadad&hide_progress=true)
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<div class="stats" align="center">
+
+![Alwi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwiAlHadad&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AlwiAlHadad&count_private=true&theme=algolia&border_radius=20)
+
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
+    
+<!-- compact programming languages layout -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwiAlHadad&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>

@@ -25,15 +25,9 @@ Hi, I'm a data scientist with a passion for using data to solve problems. I'm pr
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 <!-- Begin Stats Cards -->
-<!-- Resources:  -->
-<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
-<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
-<!-- Change the value after ?username= to your GitHub username. -->
+
 <div class="stats" align="center">
 
 ![Alwi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwiAlHadad&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-    
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwiAlHadad&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+
 </div>

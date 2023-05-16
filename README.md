@@ -24,8 +24,6 @@ Hi, I'm a data scientist with a passion for using data to solve problems. I'm pr
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
@@ -34,9 +32,6 @@ Hi, I'm a data scientist with a passion for using data to solve problems. I'm pr
 <div class="stats" align="center">
 
 ![Alwi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwiAlHadad&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AlwiAlHadad&count_private=true&theme=algolia&border_radius=20)
-
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->

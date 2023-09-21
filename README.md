@@ -19,15 +19,3 @@ Hi, I'm a data scientist with a passion for using data to solve problems. I'm pr
 <img align="left" alt="Tableau" width="60px" src="tableau-icon-svgrepo-com.svg" style="padding-right:10px;" />
 <img align="left" alt="Github" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 <br /><br />
-
-#
-
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-<!-- Begin Stats Cards -->
-
-<div class="stats" align="center">
-
-![Alwi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlwiAlHadad&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-</div>
